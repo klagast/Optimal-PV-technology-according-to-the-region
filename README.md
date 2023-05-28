@@ -9,7 +9,7 @@ The results were visualised in a Dash Python application.
 This project consists of three parts each with their own readme file:
 - The calculations folder: The calculations to calculate the energy yield for the cities with the Sandia Array Performance Model are described here.
 - The analysis folder: The analysis of the results in this thesis with heatmaps, histograms, boxplots, etc.
-- The Dash app folder: The Dash application in Python were an interactive world map is visualised of about 4000 cities with the results which PV technology is the most optimal in that region.
+- The Dash app folder: The Dash application in Python where an interactive world map is visualised of about 4000 cities. When you click on a city, you should go to a analysis page, where a suggestion is given of what is the most optimal PV technology in the chosen region. 
 
 ## Disclaimers
 - This research was done by a student and was never checked for correctness or accuracy of the results.
