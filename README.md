@@ -6,6 +6,10 @@ The aim of the study was to use pvlib PV to do calculations with the Sandia Modu
 After applying data analysis, the most "optimal" PV technolgy in each self-defined region was determined. 
 The results were visualised in a Dash Python application.
 ## Structure
+This project consists of three parts each with their own readme file:
+- The calculations folder: The calculations to calculate the energy yield for the cities with the Sandia Array Performance Model are described here.
+- The analysis folder: The analysis of the results in this thesis with heatmaps, histograms, boxplots, etc.
+- The Dash app folder: The Dash application in Python were an interactive world map is visualised of about 4000 cities with the results which PV technology is the most optimal in that region.
 
 ## Disclaimers
 - This research was done by a student and was never checked for correctness or accuracy of the results.
