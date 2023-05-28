@@ -6,7 +6,7 @@ After applying data analysis, the most "optimal" PV technolgy in each self-defin
 The results were visualised in a Dash Python application.
 
 
-Disclaimers: 
+## Disclaimers
 This research was done by a student and was never checked for correctness or accuracy of the results.
 This research was conducted by a student who had limited basic knowledge of Python at the start. So some pieces of code could definitely be coded more efficiently.
 This research was combined with data stored locally in a PostgreSQL database.
